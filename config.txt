@@ -1,0 +1,5 @@
+# Conny Raganya
+# 13 March 2024
+# Configuration file for Big-wig-electronics
+timeout=45
+
